@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_menu1"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Products" />
+        <item
+            android:id="@+id/nav_menu2"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Some Of Our Delights" />
+        <item
+            android:id="@+id/nav_menu3"
+            android:icon="@drawable/profile"
+            android:title="Profile" />
+        <item
+            android:id="@+id/Contact"
+            android:icon="@drawable/contact"
+            android:title="Contact Us" />
+        <item
+            android:id="@+id/About"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="About Us" />
+
+        <item
+            android:id="@+id/Rate"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Rate  This App" />
+
+    </group>
+
+
+</menu>
